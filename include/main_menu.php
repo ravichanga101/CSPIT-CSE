@@ -22,11 +22,11 @@
              <a href="https://www.charusat.ac.in/Downloads/Question%20Papers/CSPIT/"> Question Papers |</a>
 	  
 	  <div class="social-links float-right">
-        <a href="https://www.facebook.com/CSPITCE/" target="_blank" class=""><i class="fa fa-facebook"></i></a>
+        <a href="https://www.facebook.com/profile.php?id=100080061491917" target="_blank" class=""><i class="fa fa-facebook"></i></a>
         <a href="" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a>
-        <a href="https://www.instagram.com/cspit_ce/" target="_blank" class="twitter"><i class="fa fa-instagram"></i></a>
+        <a href="https://www.instagram.com/cse_cspit?igsh=cWNpbXdlaDZzb2I3" target="_blank" class="twitter"><i class="fa fa-instagram"></i></a>
         <a href="" target="_blank" class="twitter"><i class="fa fa-skype"></i></a>
-        <a href="" target="_blank" class=""><i class="fa fa-linkedin"></i></a>
+        <a href="https://www.linkedin.com/in/cspit-cse/" target="_blank" class=""><i class="fa fa-linkedin"></i></a>
         <!--<a href="http://117.239.83.200:8110/CHARUSAT_Virtual_Tour/CSPIT/" target="_Blank" class="" style="color:red;">360 View <i class=" fa fa-video-camera" ></i></a>-->
       </div>
     </div>
