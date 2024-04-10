@@ -4,7 +4,7 @@
 $data['dept_esta'] = "2020";
 $data['dept_b_tech_seats'] = "90";
 $data['name_of_dept'] = "Department of Computer Science & Engineering";
-$links['brochure'] = 'files/CE_Brochure.pdf';
+$links['brochure'] = 'files/CSE_Brochure.pdf';
 
 
 // contact details
